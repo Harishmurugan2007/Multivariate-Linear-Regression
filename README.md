@@ -16,8 +16,8 @@ Use linearmodel into that use linear regression function to compute the variable
 ### Step5
 Use regression.fit function of inputted variables of x and y and print corresponding results to get output.
 ## Program:
-    Developed by: HARISH G
-    Reg.No: 24006523
+    Developed by: HARISH M 
+    Reg.No: 24006510
     import pandas as pd
     from sklearn import linear_model
     df = pd.read_csv("carsemission.csv")
